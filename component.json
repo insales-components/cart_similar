@@ -1,0 +1,17 @@
+{
+  "name": "cart_similar",
+  "version": "1.0.0",
+  "description": "Слайдер товаров",
+  "author": "LiquidHub.ru",
+  "type": "snippets",
+  "homepage": "https://github.com/insales-components/cart_similar",
+  "props": {
+    "common": false,
+    "liquid": true
+  },
+  "dependencies": {
+    "products_slider": "https://github.com/insales-components/products_slider",
+    "slider": "https://github.com/insales-components/slider",
+    "card": "https://github.com/insales-components/card"
+  }
+}
